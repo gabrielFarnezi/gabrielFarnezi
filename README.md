@@ -1,0 +1,3 @@
+- 👋 Olá, sou o Gabriel Farnezi, mais conhecido por aqui como: @gabrielFarnezi
+- 👀 Sou estudande de programação, meu foco é sempre evoluir
+- 📫 Podem mandar e-mail para o gbnezi@gmail.com.
